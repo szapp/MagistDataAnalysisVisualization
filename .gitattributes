@@ -1,0 +1,5 @@
+* text=auto eol=lf
+
+*.[tT][wW][bB][xX] linguist-detectable=false
+*.[pP][dD][fF] linguist-detectable=false
+*.[pP][nN][gG] linguist-detectable=false
