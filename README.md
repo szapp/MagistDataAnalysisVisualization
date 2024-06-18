@@ -1,5 +1,7 @@
 # Magist Data Analysis and Visualization
 
+[![Tableau Public](https://img.shields.io/badge/tableau-dashboard-blue?logo=tableau&logoColor=white)](https://public.tableau.com/views/MagistAnalysis_17146788675680/Recommendation)
+
 Case study: Data analysis and visualization to evaluate and recommend a business partnership. Team project for data-driven business with SQL and Tableau.
 
 ## Project
